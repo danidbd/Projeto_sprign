@@ -1,9 +1,7 @@
 package com.example.projeto1.services;
 
 import com.example.projeto1.entities.Order;
-import com.example.projeto1.entities.User;
-import com.example.projeto1.repositories.OrderRepository;
-import com.example.projeto1.repositories.UserRepository;
+import com.example.projeto1.repository.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

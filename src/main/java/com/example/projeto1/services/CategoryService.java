@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Optional;
 
 import com.example.projeto1.entities.Category;
-import com.example.projeto1.repositories.CategoryRepository;
+import com.example.projeto1.repository.CategoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
